@@ -20,7 +20,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 #### Utilize o git para clonar o repositório:
 
     git clone https://github.com/antoniosa28/DesafioProgramacaoJava
-    cd DesafiodeProgramacaoJava
+    cd DesafiodeProgramacao
 
 
 ## Questão-01
