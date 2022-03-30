@@ -15,7 +15,7 @@ Tabela de conteúdos
 ### Requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[Git](https://git-s
+[Git](https://git-scm.com/)
 
 #### Utilize o git para clonar o repositório:
 
